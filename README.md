@@ -1,5 +1,5 @@
 # leetspeak
-Turn a normal phrase into leetspeak. L1k3 th1s 3x4mpl3
+Turn a normal phrase into [leetspeak](https://en.wikipedia.org/wiki/Leet). L1k3 th1s 3x4mpl3
 
 ## Examples
 ![image](https://github.com/Aeziren/leetspeak/assets/123553708/cf213d58-8436-4c9f-a322-047bcb91acb8)
